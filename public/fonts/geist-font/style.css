@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Geist Sans";
+  src:
+    url("/fonts/geist-font/fonts/GeistVariableVF.woff2") format("woff2"),
+    url("/fonts/geist-font/fonts/GeistVariableVF.ttf") format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Geist Mono";
+  src:
+    url("/fonts/geist-font/fonts/GeistMonoVariableVF.woff2") format("woff2"),
+    url("/fonts/geist-font/fonts/GeistMonoVariableVF.ttf") format("truetype");
+  font-display: swap;
+}
